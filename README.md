@@ -1,7 +1,7 @@
 
 # App Demo
 An app which shows the real-time price of Bitcoin, in a range of currencies.
-![BitcoinTickerAppDemo](http://bit.do/democoin)
+![BitcoinTickerAppDemo](https://github.com/Phissix/BitcoinAskPrice/blob/master/Documentation/IMG_1112.PNG)
 
 # Skills learned
 - Implementing the UIPicker class
